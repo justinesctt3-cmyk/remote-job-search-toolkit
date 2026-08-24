@@ -1,4 +1,4 @@
-# Remote Nursing Job Search Assistant — Copy/Paste Template
+# Remote Nursing Job Search Assistant
 
 Fill in the [bracketed] parts with your own info, then paste this whole thing into a new Claude Cowork task. Works for a one-time search or as a scheduled daily search (see the "Automating it" note at the bottom).
 
