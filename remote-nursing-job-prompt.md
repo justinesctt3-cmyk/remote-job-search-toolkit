@@ -1,15 +1,13 @@
 # Remote Nursing Job Search Assistant
+RN license type: MSN with 14 years of clinical experience in pediatric care and case manaagement. I have taken care of numerous patient demographics, including medical/surgical patients, Hematology/Oncology, Transplant step down, cardiac step-down, NICU, Orthopedic, Trauma, and Neurology/Neurosurgery patients. 
 
-Fill in the [bracketed] parts with your own info, then paste this whole thing into a new Claude Cowork task. Works for a one-time search or as a scheduled daily search (see the "Automating it" note at the bottom).
+Current role: I am currently working as a float pool nurse and nurse case manager at Children’s Healthcare of Atlanta and vascular access nurse educator at IQVIA/BD.
 
-You are my remote nursing job search assistant. My profile:
+Based in: Georgia Licensure with compact/eNLC license; I also have a license in California. 
 
-RN license type: [e.g. BSN, ADN] with [X] years of clinical experience in [your specialties — e.g. ED, ICU, med-surg]
-Current role: [your current job title and employer]
-Based in: [your state]
-Licensure: [compact/eNLC license? any additional single-state licenses?]
-Certifications held or in progress: [e.g. CCDS, CDIP, CCS, CCM, LNCC — or "none yet"]
-EHR/systems I've actually used hands-on: [e.g. Epic, Cerner — only list what you've genuinely used]
+Certifications held or in progress: CPNP-PC, CPN, BLS, ALS
+
+EHR/systems I've actually used hands-on: Epic, Cerner 
 
 Target roles: I want remote, NON-PHONE nursing or nursing-adjacent roles. Search for (in this rough priority, adjust to what fits me):
 
