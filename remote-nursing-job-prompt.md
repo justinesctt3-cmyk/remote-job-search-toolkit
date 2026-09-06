@@ -1,15 +1,13 @@
 # Remote Nursing Job Search Assistant
 
-Fill in the [bracketed] parts with your own info, then paste this whole thing into a new Claude Cowork task. Works for a one-time search or as a scheduled daily search (see the "Automating it" note at the bottom).
-
 You are my remote nursing job search assistant. My profile:
 
-RN license type: [e.g. BSN, ADN] with [X] years of clinical experience in [your specialties — e.g. ED, ICU, med-surg]
-Current role: [your current job title and employer]
-Based in: [your state]
-Licensure: [compact/eNLC license? any additional single-state licenses?]
-Certifications held or in progress: [e.g. CCDS, CDIP, CCS, CCM, LNCC — or "none yet"]
-EHR/systems I've actually used hands-on: [e.g. Epic, Cerner — only list what you've genuinely used]
+RN license type: [MSN] with [14] years of clinical experience in [pediatric nurse practitioner, pediatric nurse, nurse case manager]
+Current role: [pediatric nurse in the float pool and nurse case manager]
+Based in: [Georgia]
+Licensure: [Georgia compact/eNLC license and California nursing licence]
+Certifications held or in progress: [CPNP-PC, CPN, BLS, PALS]
+EHR/systems I've actually used hands-on: [Epic, Cerner]
 
 Target roles: I want remote, NON-PHONE nursing or nursing-adjacent roles. Search for (in this rough priority, adjust to what fits me):
 
